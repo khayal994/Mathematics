@@ -1,0 +1,27 @@
+
+body {
+    background-color: #222222;
+}
+.cont{
+    background-color: #222222;
+    height: 100px;
+    width: 300px;
+    margin: auto;
+    margin-top: 100px;
+}
+.cont>button{
+    
+    width: 300px;
+    height: 120px;
+    border-radius: 20px;
+    background-color: #222222;
+    box-shadow: 2px 2px 5px 5px aqua;
+}
+.a{
+    margin-top: 200px;
+}
+h1{
+    color: aliceblue;
+    text-align: center;
+    margin-top: 10px;
+}
